@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osmar Eduardo Nothaft</h1>
 <h3 align="center">A passionate full stack developer from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osmaren&label=Profile%20views&color=0e75b6&style=flat" alt="osmaren" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osmaren" alt="osmaren" /></a> </p>
-
 - 📫 How to reach me **osmarn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osmaren&show_icons=true&locale=en" alt="osmaren" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osmaren&" alt="osmaren" /></p>
-
 
 <!--
 **osmaren/osmaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
